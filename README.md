@@ -55,6 +55,5 @@ Feel free to reach out on
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-%23000000.svg?style=for-the-badge&logo=excalidraw&logoColor=white)
 
-### My Stats
-https://github-readme-stats.vercel.app/api?username={sailorthecoder}
+![Salar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailorthecoder&theme=dark&show_icons=true)
 
