@@ -9,7 +9,7 @@ My passion for code stems from my innate desire to challenge status quo and make
 
 I'm dedicated to test driven development of web and mobile applications.
 
-Feel free to reach out on 
+Feel free to reach out on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
  
 
