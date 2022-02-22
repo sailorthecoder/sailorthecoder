@@ -14,6 +14,7 @@ Feel free to reach out on
  
 
 Here are the technologies I've worked with so far
+____________________________________________________________________________________________________________________________________________________
 Front-end Techs
 JavaScript HTML5 CSS3 React React Router Material UI p5js
 
