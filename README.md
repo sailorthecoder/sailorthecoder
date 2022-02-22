@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**sailorthecoder/sailorthecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello World :bangbang:
+ 
 
-Here are some ideas to get you started:
+My name is Salar, a software engineer 🌉 from the San Francisco Bay Area.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion for code stems from my innate desire to challenge status quo and make people's life easier.
+
+I'm dedicated to test driven development of web and mobile applications.
+
+Feel free to reach out on 
+
+ 
+
+Here are the technologies I've worked with so far
+Front-end Techs
+JavaScript HTML5 CSS3 React React Router Material UI p5js
+
+Back-end Techs
+NPM Yarn NodeJS Express.js Postgres MongoDB Ubuntu Nginx Socket.io
+
+Deployment
+AWS Heroku
+
+Version Control
+Git GitHub jQuery Webpack
+
+Coding Environments
+Visual Studio Code
+
+White Boarding tools
+Figma Excalidraw
