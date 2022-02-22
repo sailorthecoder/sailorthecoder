@@ -5,7 +5,7 @@
 I am Salar Malik, a software engineer 🌉 from the San Francisco Bay Area.
  
 
-My passion for code stems from my innate desire to challenge status quo and make people's life easier.
+My passion for code stems from my innate desire to challenge status quo and make people's lives easier.
 
 I'm dedicated to test driven development of web and mobile applications.
 
